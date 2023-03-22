@@ -1,0 +1,11 @@
+C:\Users\Mostafa\Downloads\EmployeePenguin.exe
+C:\Users\Mostafa\Downloads\EmployeePenguin.dll
+C:\Users\Mostafa\Downloads\EmployeePenguin.deps.json
+C:\Users\Mostafa\Downloads\EmployeePenguin.runtimeconfig.json
+C:\Users\Mostafa\Downloads\EmployeePenguin.pdb
+C:\Users\Mostafa\Downloads\System.Data.SqlClient.dll
+C:\Users\Mostafa\Downloads\runtimes\win-arm64\native\sni.dll
+C:\Users\Mostafa\Downloads\runtimes\win-x64\native\sni.dll
+C:\Users\Mostafa\Downloads\runtimes\win-x86\native\sni.dll
+C:\Users\Mostafa\Downloads\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Downloads\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
